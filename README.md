@@ -6,7 +6,7 @@
 ![IoT Project](https://img.shields.io/badge/Category-IoT-green)
 ![Web Server](https://img.shields.io/badge/Module-Web%20Server-purple)
 
-# 🏠 Smart Home Automation Using ESP8266
+
 
 Wi-Fi Based Relay Control System with Web Dashboard
 

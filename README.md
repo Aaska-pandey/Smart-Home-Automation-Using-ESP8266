@@ -49,7 +49,7 @@ This project was developed as part of our *AI/ML & IoT Summer Training Program*.
 
 ## 📁 Folder Structure
 
-
+"
 smart-home-automation/
 │── README.md
 │── SmartHome.ino
@@ -66,9 +66,7 @@ smart-home-automation/
       │── certificate.pdf
 
 
-      
-
-
+"
 ---
 
 ## 🚀 Getting Started

@@ -45,22 +45,28 @@ This project was developed as part of our *AI/ML & IoT Summer Training Program*.
 
 ---
 
+
+
 ## 📁 Folder Structure
 
 
-📁smart-home-automation/
+smart-home-automation/
 │── README.md
 │── SmartHome.ino
 │── LICENSE
 │── .gitignore
 │── images/
-│     │── ui.png
-│     │── circuit.png
-│     │── hardware.jpg
+│     │── video.mp4
+│     │── images.png
+│     │── demo.jpg
 │
 └── docs/
       │── project-report.pdf
       │── presentation.pdf
+      │── certificate.pdf
+
+
+      
 
 
 ---
